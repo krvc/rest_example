@@ -1,5 +1,4 @@
 from django.contrib.auth.models import User
-from django.views.decorators.csrf import csrf_exempt
 
 
 from restapp.serializers import UserSerializer
